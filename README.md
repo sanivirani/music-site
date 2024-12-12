@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## -------------- just for learning purpose ---------------//
+
+## --- what is the diffrence between in framework or library
+
+main rules
+library-- provide free flow
+framework -- strick rulles
+restriction for folder name, file extentioin , path
+
+# --- must be remember that you should be any write folder name but --- carefull that to be must have file name a == page.tsx ==.
+
+# --- use open source library -- Accternity U --- //
+
+# -- how to use react hooks -- //
+
+top to write line
+--- 'use client' ----
